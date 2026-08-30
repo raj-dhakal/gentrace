@@ -10,3 +10,7 @@ married kids link out to their own separate page one generation deeper.
 
 ## Status
 Early development — Week 1 scaffolding in progress.
+
+
+## Day 1 Log
+- Repo created, branch protection enabled on `main`, branch/PR workflow established.
